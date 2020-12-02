@@ -14,11 +14,13 @@
 	color: red;
 	display:inline-block;
 	position:relative;
-	left:25%
+	left:25%;
+	vertical-align:middle;
 }
 .logo {
 	position:relative;
-	left:25%;
+	left:15%;
 	width:10%;
 	display:inline-block;
+	vertical-align:middle;
 }
