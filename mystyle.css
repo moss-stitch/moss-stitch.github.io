@@ -13,3 +13,8 @@
 	font-family: 'Yellowtail';
 	color: red;
 }
+.logo {
+	style: relative;
+	left: 25%;
+	width:15%;
+}
