@@ -14,7 +14,8 @@
 	color: red;
 }
 .logo {
-	style: relative;
-	left: 25%;
+	style:relative;
+	left:25%;
 	width:15%;
+	display:inline;
 }
