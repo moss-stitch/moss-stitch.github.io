@@ -12,11 +12,11 @@
 .heading {
 	font-family: 'Yellowtail';
 	color: red;
-	display:inline;
+	display:inline-block;
 }
 .logo {
 	style:relative;
 	left:25%;
 	width:15%;
-	display:inline;
+	display:inline-block;
 }
