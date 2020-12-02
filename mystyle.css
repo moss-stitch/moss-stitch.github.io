@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
 .tab {
 	background-color:#f1f1f1;
 	border: none;
@@ -7,4 +8,8 @@
 }
 .tab:hover {
 	background-color: #666666;
+}
+.heading {
+	font-family: 'Yellowtail';
+	color: red;
 }
